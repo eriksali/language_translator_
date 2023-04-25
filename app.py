@@ -1,4 +1,4 @@
-# pip install gradio torch transformers
+## pip install gradio torch transformers
 
 import gradio as gr
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
